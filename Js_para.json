@@ -1,0 +1,155 @@
+[
+    {
+        "js_id":"10001",
+        "type":"LFSI",
+        "transmit_power":12,
+        "freq_c":1.001e9,
+
+        "LFSI_band": 5e6,
+        "LFSI_sweep_rate": 260e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 310000,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+    {
+        "js_id":"10002",
+        "type":"NBI",
+        "transmit_power":12,
+        "freq_c":0.996E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 2000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1.66e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+    {
+        "js_id":"10003",
+        "type":"STI",
+        "transmit_power":2,
+        "freq_c":0.9905E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 1000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+
+    {
+        "js_id":"10004",
+        "type":"STI",
+        "transmit_power":2,
+        "freq_c":0.9910E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 1000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+    {
+        "js_id":"10005",
+        "type":"STI",
+        "transmit_power":2,
+        "freq_c":0.9915E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 1000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+    {
+        "js_id":"10006",
+        "type":"STI",
+        "transmit_power":2,
+        "freq_c":0.9920E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 1000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+    {
+        "js_id":"10007",
+        "type":"STI",
+        "transmit_power":2,
+        "freq_c":0.9925E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 1000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 15e6
+    },
+    {
+        "js_id":"10008",
+        "type":"WBN",
+        "transmit_power":12,
+        "freq_c":1.006E+9,
+
+        "LFSI_band": 10e6,
+        "LFSI_sweep_rate": 1000e6,
+
+        "NBI_mod_type": "16APSK",
+        "NBI_multiplexing_type": "NONE",
+        "NBI_system_type": "COMM",
+        "NBI_symbol_rate": 1e6,
+        "NBI_shaping_type": "RootRaisedCos",
+        "NBI_arfa": 0.21,
+        "NBI_mod_depth": 1,
+        "NBI_cont_Phase": "cont",
+        "WBN_band" : 7.2e6
+    }
+]
